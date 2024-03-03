@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'build', // Set the output directory to "build"
   },
+  base: '/react-to-do-list/',
 });
